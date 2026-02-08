@@ -99,7 +99,8 @@ Throughout the project, the analytical structure was refined. Each step informed
 
 ## Liquidity Landscape
 
-reports/liquidity_landscape.png
+![Liquidity Landscape](reports/liquidity_landscape.png)
+    
 
 ## Limitations & Next Steps
 
